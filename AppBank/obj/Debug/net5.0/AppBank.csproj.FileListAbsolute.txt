@@ -1,0 +1,16 @@
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\AppBank.exe
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\AppBank.deps.json
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\AppBank.runtimeconfig.json
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\AppBank.runtimeconfig.dev.json
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\AppBank.dll
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\ref\AppBank.dll
+C:\git\Object Oriented Programming\AppBank\AppBank\bin\Debug\net5.0\AppBank.pdb
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.csprojAssemblyReference.cache
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.AssemblyInfoInputs.cache
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.AssemblyInfo.cs
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.csproj.CoreCompileInputs.cache
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.dll
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\ref\AppBank.dll
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.pdb
+C:\git\Object Oriented Programming\AppBank\AppBank\obj\Debug\net5.0\AppBank.genruntimeconfig.cache

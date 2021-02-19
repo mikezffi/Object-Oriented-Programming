@@ -1,0 +1,16 @@
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\AppSeries.exe
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\AppSeries.deps.json
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.json
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.dev.json
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\AppSeries.dll
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\ref\AppSeries.dll
+C:\git\Object Oriented Programming\AppSeries\bin\Debug\net5.0\AppSeries.pdb
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.csprojAssemblyReference.cache
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.AssemblyInfoInputs.cache
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.AssemblyInfo.cs
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.csproj.CoreCompileInputs.cache
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.dll
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\ref\AppSeries.dll
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.pdb
+C:\git\Object Oriented Programming\AppSeries\obj\Debug\net5.0\AppSeries.genruntimeconfig.cache
